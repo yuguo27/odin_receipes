@@ -1,0 +1,33 @@
+.title{
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.boutton-image{
+    display: inline-block;
+    color: red; 
+    font-size: 100px;
+    padding: 16px 16px 8px; 
+    margin-left: 200px;
+    margin-bottom: 16px;  
+    border: 8px;
+}
+
+.image-meet-tipsy{
+    display: inline-block;
+    height: 200px;
+    width: 400px;
+    margin-top: 16px;
+    margin-left: 125px;
+}
+
+#police{
+    font-family: 'Courier New', Courier, monospace;
+    color: palevioletred;
+}
+
+.color{
+    color: burlywood;
+}
